@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Prafful",
+      "username": "pd",
+      "email": "prrafuldaga@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Amlan",
+      "username": "aa",
+      "email": "amlan@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jon Snow",
+      "username": "tar",
+      "email": "jon@gmail.com"
+    },
+    {
+      "name": "Arya",
+      "username": "Stark",
+      "email": "arya@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "dany",
+      "username": "trag",
+      "email": "dany@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "polo1",
+      "username": "p",
+      "email": "p@g.com",
+      "id": 6
+    },
+    {
+      "name": "polo2",
+      "username": "p",
+      "email": "p@g.com",
+      "id": 7
+    },
+    {
+      "name": "a1",
+      "username": "a",
+      "email": "a@g.com",
+      "id": 8
+    },
+    {
+      "name": "a2",
+      "username": "a",
+      "email": "a@g.com",
+      "id": 9
+    },
+    {
+      "name": "q",
+      "username": "q",
+      "email": "q@g.com",
+      "id": 10
+    },
+    {
+      "name": "w",
+      "username": "w",
+      "email": "w@g.com",
+      "id": 11
+    },
+    {
+      "name": "naruto",
+      "username": "n",
+      "email": "n@g.com",
+      "id": 12
+    },
+    {
+      "name": "naruto",
+      "username": "n",
+      "email": "n@g.com",
+      "id": 13
+    }
+  ]
+}
